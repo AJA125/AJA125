@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me:
+My name is Alfonso Amorin Jr, and I am an aspiring software engineer with a strong foundation in Computer Information Systems and Technology. Growing up in Ghana, my exposure to technology was limited, which fueled my passion for bridging the digital divide and empowering others through technology.
+
+Currently, I am pursuing a Bachelor of Science in Computer Information Systems and Technology at the University of Pittsburgh, where I have developed expertise in Python, Java, SQL, and data analytics. My academic journey has allowed me to gain hands-on experience in machine learning, software development, and workflow automation.
+
+Beyond academics, I have actively contributed to mentorship programs aimed at introducing basic IT skills to underprivileged students in Ghana. Additionally, I have worked on data-driven research projects using Python and SQL, applying analytical skills to generate actionable insights.
+
+On GitHub, I share my projects spanning data analysis, software development, and automation. From SQL-driven reporting systems to Python-based applications, I am excited to collaborate with like-minded individuals and contribute to solving real-world problems through technology.
 
 <!--
 **AJA125/AJA125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
